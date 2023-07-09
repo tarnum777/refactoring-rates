@@ -9,6 +9,3 @@ If we have file with lines of transactions in json format, use
 php index.php filename
 ``` 
 filename is optional, if not used - file Original/input.txt is used
-
-###Todo
-- move Exception classes under Exception folder
