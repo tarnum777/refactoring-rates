@@ -1,0 +1,21 @@
+{
+    "name": "tarnum26/test-refactoring",
+    "description": "test refactoring",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.3",
+        "php": "^8.2.4",
+        "symfony/http-client": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "TransactionCommission\\": "Refactored/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitalii Yaryza",
+            "email": "vyaryza@gmail.com"
+        }
+    ]
+}
